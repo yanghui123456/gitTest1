@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5ee9f4d-7acd-458d-9a8d-e601544294d3" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/a.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/b.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -18,17 +18,7 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="b.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/b.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="c.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="c.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/c.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="208">
@@ -213,12 +203,12 @@
       <updated>1537508219202</updated>
       <workItem from="1537508220492" duration="3093000" />
       <workItem from="1537837637019" duration="599000" />
-      <workItem from="1538096415569" duration="184000" />
+      <workItem from="1538096415569" duration="854000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3876000" />
+    <option name="totallyTimeSpent" value="4546000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="0" />
@@ -317,14 +307,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/c.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/d.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
@@ -343,8 +325,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/b.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        <state relative-caret-position="234">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/c.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
           <folding />
         </state>
       </provider>
